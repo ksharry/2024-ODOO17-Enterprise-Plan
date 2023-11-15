@@ -1,6 +1,8 @@
 ## ODOO17新功能
-ODOO17發佈的直播-[Odoo Experience 2023 - Opening Keynote - Unveiling Odoo 17](https://www.youtube.com/watch?v=fmVNEoxr7iU)，
-由Fabien Pinckaers介紹的特點說明。
+ODOO17發佈的消息-
+  + [Odoo Experience 2023 - Opening Keynote - Unveiling Odoo 17](https://www.youtube.com/watch?v=fmVNEoxr7iU)，
+  + [Meet Odoo 17: All the new features](https://www.youtube.com/watch?v=qxb74CMR748)
+
 #### User-Friendly
 1. Icon重新設計。
 2. 新增深色模式
@@ -43,5 +45,8 @@ ODOO17發佈的直播-[Odoo Experience 2023 - Opening Keynote - Unveiling Odoo 1
 
 #### Accounting
 14. PDF的分割與派送。
-15. 自動產生多帳期的帳單
-16. reconcile 1.應收付對沖/2.自動尋找沖帳
+15. 自動產生遞延費用的分錄
+16. reconcile
+    + 對沖使用
+    + 自動沖帳
+    + 有顏色配對
