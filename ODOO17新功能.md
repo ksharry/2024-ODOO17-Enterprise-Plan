@@ -45,12 +45,14 @@ ODOO17發佈的消息-
 
 #### Accounting
 14. PDF的分割與派送。
-15. 自動產生遞延費用的分錄
-16. 電子發票
-17. 稅號檢查
-18. 分析帳戶的調整
-19. 舊版本的還原
-20. reconcile
+15. 自動產生遞延費用的分錄-[設定](https://www.youtube.com/watch?v=umutqkzYNfw)
+   + ![Alt text](https://github.com/ksharry/odoo-repository/blob/main/pic/A511Z1.png?raw=true)
+16. 信用額度
+17. 電子發票-[peppol設定](https://www.youtube.com/watch?v=0Wy4qAv2K5c)
+18. 稅號檢查
+19. 分析帳戶的調整
+20. 舊版本的還原
+21. reconcile
     + 對沖使用
     + 自動沖帳
     + 有顏色配對
