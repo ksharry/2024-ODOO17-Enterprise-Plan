@@ -1,7 +1,7 @@
 ## [官方網站]
 官方網站-[網址](https://consultant.xienci.com/)
-## 課程目的
-透過「分享、參與、行動」的方式，由自身出發加入ODOO的生態系。
+## 2024年目標
+分享更多關於ODOO企業版的使用方式。
 
 ## 課程教材與影片清單
 1. 線上影音-[網址](https://www.youtube.com/channel/UCFn6F8NOS8MTDP4ZSb_ppUA)
