@@ -10,6 +10,5 @@
    + ODOO17企業版與社群版功能差異-會計
 
 ## ODOO 數位化計畫-專家
-報名網址-[網址](https://consultant.xienci.com/event/2003odoo-1/register)https://consultant.xienci.com/event/2003odoo-1/register
-
+報名網址-[網址](https://consultant.xienci.com/event/2003odoo-1/register)
 
