@@ -1,7 +1,7 @@
 ## [官方網站]
 官方網站-[網址](https://consultant.xienci.com/)
 ## 2024年目標
-分享更多關於ODOO企業版的使用方式。
+分享ODOO企業版功能與使用經驗，並期望與社群版進行差異比較，讓更多關於版本不熟悉的人參考。
 
 ## ODOO 線上課程
 1. 線上影音-[網址](https://www.youtube.com/channel/UCFn6F8NOS8MTDP4ZSb_ppUA)
