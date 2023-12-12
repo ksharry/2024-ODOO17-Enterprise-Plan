@@ -9,4 +9,29 @@
 3. 粗略產能規劃(Rough-Cut Capacity Planning，簡稱RCCP)，探究其處理過程，主要是將成品的生產計畫，轉換成為相對應的工作能力需求，ODOO設定式透過每日的最高產能。
 
 ## 設定
-1. 可以根據設定開啟
+![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F171302.png?raw=true)
+1. 根據製造週期去設定
+   + 日
+   + 周
+   + 月
+![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F171303.png?raw=true)
+2. 設定MPS規則
+   + 設定安全庫存
+   + 設定最高產量
+   + 如設定BOM表，可自動產算下階。
+
+## 實際運算
+#### 計畫式生產
+![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F171304.png?raw=true)
+1. 根據預測，展開每周的計畫內容。
+
+#### 接單式生產
+![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F171305.png?raw=true)
+1. 根據訂單，展開每周的計畫內容
+
+#### 實際運算-混合式生產
+![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F171306.png?raw=true)
+1. 根據共用性產品，展開每周的計畫內容，期望縮短製造週期。
+2. 根據訂單，展開每周計畫。
+
+## 小結
