@@ -11,9 +11,6 @@
 ## 設定
 1. 根據製造週期去設定
 ![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F171302.png?raw=true)
-   + 日
-   + 周
-   + 月
 
 
 3. 設定MPS規則
