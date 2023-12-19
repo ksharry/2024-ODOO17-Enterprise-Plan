@@ -1,7 +1,7 @@
 ## 差異系列-ODOO17企業版-MPS
 
 ## 總表
-![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F713011.png?raw=true)
+![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F171301.png?raw=true)
 
 ## 名詞介紹
 1. 主生產排成（Master Production Schedule，簡稱MPS），為根據銷售訂單或預測得到的對產品（獨立需求物料）的需求清單，即在某一個時間點對產品的需求量。主生產計畫的訂立必須考量到可能的客戶訂單、目前未完成的訂單、可用資源的數量、現有能力、管理階層的目標等等。
@@ -10,31 +10,31 @@
 
 ## 設定
 1. 根據製造週期去設定
-![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F713012.png?raw=true)
+![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F171302.png?raw=true)
 
 
 3. 設定MPS規則
-![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F713013.png?raw=true)
+![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F171303.png?raw=true)
    + 設定安全庫存
    + 設定最高產量
    + 如設定BOM表，可自動產算下階。
 
 ## 實際運算
 #### 計畫式生產
-![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F713014.png?raw=true)
+![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F171304.png?raw=true)
 1. 根據預測，展開每周的計畫內容。
 
 #### 接單式生產
-![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F713015.png?raw=true)
+![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F171305.png?raw=true)
 1. 根據訂單，展開每周的計畫內容
 
 #### 實際運算-混合式生產
-![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F713016.png?raw=true)
+![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F171306.png?raw=true)
 1. 根據共用性產品，展開每周的計畫內容，期望縮短製造週期。
 2. 根據訂單，展開每周計畫。
 
 #### 如果運算要進行修改，如何處理
-![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F713017.png?raw=true)
+![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F171307.png?raw=true)
 1. 可透過補充的數字，串查已產生的單據
    + 過高可以重新補充
    + 過低請進行取消，重新產生新的MPS單據。
