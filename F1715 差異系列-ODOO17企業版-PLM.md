@@ -30,15 +30,13 @@
 
 
 #### ECR
-1. 製程料件更換
-![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F171504.png?raw=true)
-2. 簽核與歸檔過程
+1. ECR流程
 ![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F171505.png?raw=true)
-3. 歸檔後版本更新
+2. 歸檔後版本更新
 ![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F171507.png?raw=true)
-4. 舊版本封存
+3. 舊版本封存
 ![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F171506.png?raw=true)
-5. 信件通知
+4. 信件通知
 ![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F171508.png?raw=true)
 
 ## 小結
