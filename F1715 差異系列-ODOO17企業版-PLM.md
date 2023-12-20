@@ -8,16 +8,16 @@
 
 ## 名詞介紹
 #### 設計開發過程(電子業)
-1. 工程驗證測試階段（Engineering Verification Test 簡稱EVT)是根據設計的圖紙參數進行軟硬體的測試，目的是要確認其基本單元符合設計目的及規格。
+1. 工程驗證測試階段（Engineering Verification Test 簡稱EVT)是根據設計的圖紙參數進行製作軟/硬體過程中的驗證。
 2. 設計驗證測試階段（Design Verification Test，簡稱DVT)是驗證產品設計效果與可量產性。
 3. 生產驗證測試階段（Production Verification Test，簡稱PVT)是產品性能的一致性與是否達量產標準。
 4. 量產階段（Mass Production，簡稱MP)是產品順利進行量產與銷售。
 
 #### PLM相關
-1. 產品生命週期（Product Lifecycle Management，簡稱PLM)，是覆蓋了從產品誕生到消亡的產品生命週期全過程的、開放的、互操作的一整套應用方案。
-2. 工程變更指令（Engineering Change Order，簡稱ECO)，設計(R&D)部門的工程單位發起
-3. 工程變更申請（Engineering Change Request，簡稱ECR)，製程工程師想要作一些製程改善而要求零件變更設計，或是想要改動BOM的結構，這時候就可以提出ECR申請，然後得到可以更改ECO的人員同意後，由BOM表的維護者發出ECO。
-4. 工程變更通知（Engineering Change Notice，簡稱ECN)，DCC(Document Control Center，文控中心)所發出的工程變更通知書，用來通知相關人員與單位，告知BOM表或是文件已經做了變更
+1. 產品生命週期（Product Lifecycle Management，簡稱PLM)，是記錄產品誕生到消亡的產品生命週期全過程的應用方案。
+2. 工程變更指令（Engineering Change Order，簡稱ECO)，設計(R&D)部門的工程單位發起的變更通知。
+3. 工程變更申請（Engineering Change Request，簡稱ECR)，製程工程師發起變更通知，由ECO的人員同意後進行BOM表變更。
+4. 工程變更通知（Engineering Change Notice，簡稱ECN)，文管中心所發出的工程變更通知書，用來通知相關人員與單位文件變更。
 
 ## ODOO流程
 
