@@ -21,6 +21,9 @@
 
 ## ODOO流程
 
+#### 設定階段與簽核
+![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F171509.png?raw=true)
+
 #### ECO
 1. 新產品開發
 ![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F171503.png?raw=true)
@@ -35,6 +38,15 @@
 ![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F171507.png?raw=true)
 4. 舊版本封存
 ![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F171506.png?raw=true)
+5. 信件通知
+![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F171508.png?raw=true)
+
+## 小結
+1. PLM目標是源頭開始，紀錄產品生命週期，透過管理來提升產品品質與縮短開發週期，提升企業競爭力。
+2. 產品有取代的紀錄與製程的變更紀錄。
+3. 產品的結束透過封存的方式，尚未有申請作業。
+4. 工程繪圖與PLM間的整合需透過第三方軟體，需調整ODOO與工程軟體的外掛來加強應用。
+5. 未整合情況下，需討論研發階段與量產階段使用方式。
 
 
 ## 參考網址
