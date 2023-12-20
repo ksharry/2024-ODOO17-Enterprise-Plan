@@ -8,13 +8,13 @@
 
 ## 名詞介紹
 #### 設計開發過程(電子業)
-1. 工程驗證測試階段（Engineering Verification Test 簡稱EVT)是根據設計的圖紙參數進行製作軟/硬體過程中的驗證。
-2. 設計驗證測試階段（Design Verification Test，簡稱DVT)是驗證產品設計效果與可量產性。
-3. 生產驗證測試階段（Production Verification Test，簡稱PVT)是產品性能的一致性與是否達量產標準。
-4. 量產階段（Mass Production，簡稱MP)是產品順利進行量產與銷售。
+1. 工程驗證測試階段（Engineering Verification Test 簡稱EVT)，根據設計的圖紙參數進行製作軟/硬體過程中的驗證。
+2. 設計驗證測試階段（Design Verification Test，簡稱DVT)，驗證產品設計效果與可量產性。
+3. 生產驗證測試階段（Production Verification Test，簡稱PVT)，產品性能的一致性與是否達量產標準。
+4. 量產階段（Mass Production，簡稱MP)，產品順利進行量產與銷售。
 
 #### PLM相關
-1. 產品生命週期（Product Lifecycle Management，簡稱PLM)，是記錄產品誕生到消亡的產品生命週期全過程的應用方案。
+1. 產品生命週期（Product Lifecycle Management，簡稱PLM)，記錄產品誕生到消亡的產品生命週期全過程的應用方案。
 2. 工程變更指令（Engineering Change Order，簡稱ECO)，設計(R&D)部門的工程單位發起的變更通知。
 3. 工程變更申請（Engineering Change Request，簡稱ECR)，製程工程師發起變更通知，由ECO的人員同意後進行BOM表變更。
 4. 工程變更通知（Engineering Change Notice，簡稱ECN)，文管中心所發出的工程變更通知書，用來通知相關人員與單位文件變更。
