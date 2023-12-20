@@ -7,7 +7,7 @@
 ![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F171502.png?raw=true)
 
 ## 名詞介紹
-#### 設計開發過程(電子業)
+#### 設計開發過程
 1. 工程驗證測試階段（Engineering Verification Test 簡稱EVT)，根據設計的圖紙參數進行製作軟/硬體過程中的驗證。
 2. 設計驗證測試階段（Design Verification Test，簡稱DVT)，驗證產品設計效果與可量產性。
 3. 生產驗證測試階段（Production Verification Test，簡稱PVT)，產品性能的一致性與是否達量產標準。
@@ -21,7 +21,20 @@
 
 ## ODOO流程
 
-####
+#### ECO
+1. 新產品開發
+![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F171503.png?raw=true)
+
+
+#### ECR
+1. 製程料件更換
+![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F171504.png?raw=true)
+2. 簽核與歸檔過程
+![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F171505.png?raw=true)
+3. 歸檔後版本更新
+![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F171507.png?raw=true)
+4. 舊版本封存
+![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F171506.png?raw=true)
 
 
 ## 參考網址
@@ -33,3 +46,4 @@
 6. 深入了解EVT/DVT/PVT：新產品開發的三個關鍵驗證階段解說-[網址](https://www.researchmfg.com/2010/07/evt-dvt-pvt/)
 7. EVT、DVT是什麼？搞懂IoT新創產品開發的六個階段-[網址](https://mag.addmaker.tw/2019/11/15/evt%E3%80%81dvt%E6%98%AF%E4%BB%80%E9%BA%BC%EF%BC%9F%E6%90%9E%E6%87%82iot-%E6%96%B0%E5%89%B5%E7%94%A2%E5%93%81%E9%96%8B%E7%99%BC%E7%9A%84%E5%85%AD%E5%80%8B%E9%9A%8E%E6%AE%B5/)
 8. 新產品驗證階段-[網址](https://blog.csdn.net/weixin_44991625/article/details/126504626)
+9. ODOOPLM-[網址](https://odooplm.omniasolutions.website/video)
