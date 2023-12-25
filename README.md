@@ -1,7 +1,7 @@
 ## [官方網站]
 官方網站-[網址](https://consultant.xienci.com/)
 ## 2024年目標
-分享ODOO企業版內容，進行功能差異比較。
+說明ODOO企業版內容。
 
 ## ODOO 影片清單
 1. 線上影音-[網址](https://www.youtube.com/channel/UCFn6F8NOS8MTDP4ZSb_ppUA)
