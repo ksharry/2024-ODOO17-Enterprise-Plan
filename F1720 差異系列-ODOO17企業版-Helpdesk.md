@@ -15,7 +15,7 @@
 1. Email
 ![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F172005.png?raw=true)
 2. 網站對話
-![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F172006.png?raw=true)
+   + ![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F172006.png?raw=true)
 3. 網站憑單
 ![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F172007.png?raw=true)
 
