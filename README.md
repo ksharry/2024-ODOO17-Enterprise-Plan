@@ -10,6 +10,16 @@
    + 差異功能-ODOO17社群版-安裝提醒
    + 差異功能-ODOO17企業版-會計
    + 差異功能-ODOO17企業版-品質
+   + 差異系列-ODOO17企業版-MPS
+   + 差異系列-ODOO17企業版-條碼
+   + 差異系列-ODOO17企業版-PLM
+   + 差異系列-ODOO17企業版-訂閱
+   + 差異系列-ODOO17企業版-租賃
+   + 差異系列-ODOO17企業版-專案
+   + 差異系列-ODOO17企業版-現場服務
+   + 差異系列-ODOO17企業版-Helpdesk
+   + 差異功能-ODOO17企業版-預約與會議室
+   + 差異系列-ODOO17企業版-簽核
 
 ## ODOO 支持開源專案
 報名網址-[網址](https://consultant.xienci.com/event/2003odoo-1/register)
