@@ -20,6 +20,10 @@
    + 差異系列-ODOO17企業版-Helpdesk
    + 差異功能-ODOO17企業版-預約與會議室
    + 差異系列-ODOO17企業版-簽核
+   + 差異系列-ODOO17企業版-合併報表
+   + 差異系列-ODOO17企業版-考勤
+   + 差異系列-ODOO17企業版-休假
+   + 差異系列-ODOO17企業版-薪資
 
 ## ODOO 支持開源專案
 報名網址-[網址](https://consultant.xienci.com/event/2003odoo-1/register)
