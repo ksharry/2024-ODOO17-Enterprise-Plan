@@ -4,8 +4,8 @@
 製作ODOO企業版的架構圖，說明案例與情境。
 
 ## ODOO 影片清單
-1. 線上影音-[網址](https://www.youtube.com/channel/UCFn6F8NOS8MTDP4ZSb_ppUA)
-2. 課程為ODOO17企業版的功能教學影片
+1. Youtube 差異系列影音-[網址](https://www.youtube.com/channel/UCFn6F8NOS8MTDP4ZSb_ppUA)
+2. 2024目錄:
    + 差異功能-ODOO17社群版-安裝提醒
    + 差異系列-ODOO17企業版-30個新功能
    + 差異功能-ODOO17企業版-會計
