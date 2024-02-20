@@ -4,7 +4,7 @@
 4. 
 
 ## 參考資料
-   + ODOO設備-[IOT](https://www.odoo.com/zh_TW/app/iot-hardware)/[庫存](https://www.odoo.com/zh_TW/app/inventory-hardware)/[POS](https://www.odoo.com/zh_TW/app/point-of-sale-hardware)
+   + ODOO推薦的設備建議-[IOT](https://www.odoo.com/zh_TW/app/iot-hardware)/[庫存](https://www.odoo.com/zh_TW/app/inventory-hardware)/[POS](https://www.odoo.com/zh_TW/app/point-of-sale-hardware)
    + [藍莓派安裝](https://www.youtube.com/watch?v=7xlgVrhMhEU)
    + [POS](https://www.youtube.com/watch?v=8C6dKREbO70&t)
    + [QC](https://www.youtube.com/watch?v=6uJJnP6452E)
