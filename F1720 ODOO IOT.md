@@ -5,8 +5,9 @@
 
 ## 參考資料
    + ODOO推薦的設備建議-[IOT](https://www.odoo.com/zh_TW/app/iot-hardware)/[庫存](https://www.odoo.com/zh_TW/app/inventory-hardware)/[POS](https://www.odoo.com/zh_TW/app/point-of-sale-hardware)
-   + [藍莓派安裝](https://www.youtube.com/watch?v=7xlgVrhMhEU)
-   + [POS](https://www.youtube.com/watch?v=8C6dKREbO70&t)
-   + [QC](https://www.youtube.com/watch?v=6uJJnP6452E)
-   + [POS列印](https://www.youtube.com/watch?v=EtPRZDOhwFU)
-   + [POS秤重機](https://www.youtube.com/watch?v=hnAcUCZpKuo)
+   + IOT BOX燒錄[網址](https://www.youtube.com/watch?v=7xlgVrhMhEU)
+   + POS雙螢幕應用-[網址](https://www.youtube.com/watch?v=8C6dKREbO70&t)
+   + QC攝影機應用[網址](https://www.youtube.com/watch?v=6uJJnP6452E)
+   + POS秤重機應用[網址](https://www.youtube.com/watch?v=hnAcUCZpKuo)
+   + POS列印應用[網址](https://www.youtube.com/watch?v=EtPRZDOhwFU)
+
