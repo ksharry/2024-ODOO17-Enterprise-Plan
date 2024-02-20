@@ -59,6 +59,11 @@
 2. 實際開立一張製造訂單，並開啟計畫。
 3. 工場(SHOP FLOOR)使用拍照。
 
+## 小結
+1. Model 3B的速度慢，僅測試使用。
+2. ODOO的直接列印目前要透過第三方模組或是客製進行調整。
+3. ZPL或EPL標籤
+
 ## 參考資料
    + ODOO推薦的設備建議-[IOT](https://www.odoo.com/zh_TW/app/iot-hardware)/[庫存](https://www.odoo.com/zh_TW/app/inventory-hardware)/[POS](https://www.odoo.com/zh_TW/app/point-of-sale-hardware)
    + IOTBOX官方文件-[網址](https://www.odoo.com/documentation/17.0/applications/productivity/iot.html)
