@@ -47,7 +47,7 @@
 2. 透過IOT BOX的首頁，可以進行調整與查看相關資訊
 ![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F173011.jpg?raw=true)
 
-## 系統應用1-POS雙螢幕。
+## 系統應用1-POS
 1. 安裝POS，並設定第二個螢幕
 ![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F173012.jpg?raw=true)
 2. 開啟POS模組，並開啟雙螢幕
@@ -55,10 +55,12 @@
 3. 實際配置畫面
 <img src="./pic/F173014.jpg" alt="Editor" width="500">
 
-## 系統應用2-製造現場
-1. 安裝品質模組，新增檢查，選取拍照，並選取拍照設備。
+## 系統應用2-庫存
+1. 安裝品質模組，新增檢查在不同的庫存異動，選取拍照，並選取拍照設備。
 ![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F173019.jpg?raw=true)
-2. 安裝製造模組，新增工作中心，設定IOT觸發點。
+
+## 系統應用3-製造
+1. 安裝製造模組，新增工作中心，設定IOT觸發點。
 ![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F173018.jpg?raw=true)
 
 
