@@ -57,15 +57,18 @@
 
 ## 系統應用2-製造現場
 1. 安裝品質模組，新增檢查，選取拍照，並選取拍照設備。
-![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F173018.jpg?raw=true)
-2. 安裝製造模組，新增工作中心，設定IOT觸發點。
 ![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F173019.jpg?raw=true)
+2. 安裝製造模組，新增工作中心，設定IOT觸發點。
+![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F173018.jpg?raw=true)
 
 
 ## 小結
-1. Model 3B的速度慢，僅測試使用。
+1. Model 3B的速度慢，僅手邊有，測試使用。
 2. ODOO的直接列印目前要透過第三方模組或是客製進行調整。
-3. ZPL或EPL標籤
+3. ZPL或EPL標籤需要搭配Zebra或Epson進行使用，透過文字檔傳輸，需熟悉產品製作樣板使用，PDF傳輸可能有列印模糊的情況。
+4. Iotbox需求是不同場域收集或操作不同設備進行使用，ODOO原生寫了幾個範例參考，更多的可能需要規劃後再執行，才能使數據有更多應用。
+5. Iotbox會自動抓取列印與端口設備，輔助角色，更簡易的單向指令適合使用，透過傳輸收集資料，或觸發指令觸發伺服器的其他動作。
+
 
 ## 參考資料
    + ODOO推薦的設備建議-[IOT](https://www.odoo.com/zh_TW/app/iot-hardware)/[庫存](https://www.odoo.com/zh_TW/app/inventory-hardware)/[POS](https://www.odoo.com/zh_TW/app/point-of-sale-hardware)
