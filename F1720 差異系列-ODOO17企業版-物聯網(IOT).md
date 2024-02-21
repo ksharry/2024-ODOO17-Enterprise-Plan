@@ -56,8 +56,11 @@
 <img src="./pic/F173014.jpg" alt="Editor" width="500">
 
 ## 系統應用2-庫存
-1. 安裝品質模組，新增檢查在不同的庫存異動，選取拍照，並選取拍照設備。
-![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F173019.jpg?raw=true)
+1. 安裝品質模組，並設定採購入庫要進行拍照。
+2. 採購收貨時，選取拍照進行記錄。
+![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F173020.jpg?raw=true)
+3. 查看檢驗後的拍照結果
+![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F173021.jpg?raw=true)
 
 ## 系統應用3-製造
 1. 安裝製造模組，新增工作中心，設定IOT觸發點。
