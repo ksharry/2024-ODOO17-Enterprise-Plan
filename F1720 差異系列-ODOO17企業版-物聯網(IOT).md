@@ -1,4 +1,5 @@
 ## 總表
+![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F173007.jpg?raw=true)
 
 ## 測試設備清單
 1. 使用Respberry Pi 3 Model B。
@@ -54,10 +55,9 @@
 3. 實際配置畫面
 <img src="./pic/F173014.jpg" alt="Editor" width="500">
 
-## 系統應用2-QC
+## 系統應用2-製造現場
 1. 安裝品質模組，新增檢查，選取拍照，並選取拍照設備。
-2. 實際開立一張製造訂單，並開啟計畫。
-3. 工場(SHOP FLOOR)使用拍照。
+2. 工作
 
 ## 小結
 1. Model 3B的速度慢，僅測試使用。
