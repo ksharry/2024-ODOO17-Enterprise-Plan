@@ -1,5 +1,5 @@
 ## 總表
-![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F173016.jpg?raw=true)
+![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F173017.jpg?raw=true)
 
 ## 測試設備清單
 1. 使用Respberry Pi 3 Model B。
