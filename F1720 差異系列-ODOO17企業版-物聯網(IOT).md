@@ -66,7 +66,7 @@
 
 ## 小結
 1. Model 3B的速度慢，僅手邊有，測試使用。
-2. ODOO17直接列印官方說明參考:[網址](https://www.odoo.com/documentation/saas-17.1/applications/productivity/iot/devices/printer.html)，或參考過第三方模組。
+2. ODOO17直接列印官方說明參考:[網址](https://www.odoo.com/documentation/saas-17.1/applications/productivity/iot/devices/printer.html)，或參考過第三方模組-[網址](https://apps.odoo.com/apps/modules/17.0/printnode_base/)。
 3. ZPL或EPL標籤需要搭配Zebra或Epson進行使用，透過文字檔傳輸，需熟悉產品製作樣板使用，PDF傳輸可能有列印模糊的情況。
 4. Iotbox需求是不同場域收集或操作不同設備進行使用，ODOO原生寫了幾個範例參考，更多的可能需要規劃後再執行，才能使數據有更多應用。
 5. Iotbox會自動抓取列印與端口設備，輔助角色，更簡易的單向指令適合使用，透過傳輸收集資料，或觸發指令觸發伺服器的其他動作。
@@ -75,11 +75,10 @@
 ## 參考資料
    + ODOO推薦的設備建議-[IOT](https://www.odoo.com/zh_TW/app/iot-hardware)/[庫存](https://www.odoo.com/zh_TW/app/inventory-hardware)/[POS](https://www.odoo.com/zh_TW/app/point-of-sale-hardware)
    + IOTBOX官方文件-[網址](https://www.odoo.com/documentation/17.0/applications/productivity/iot.html)
-   + IOT BOX燒錄-[網址](https://www.youtube.com/watch?v=7xlgVrhMhEU)
-   + IOT BOX 安裝-[網址](https://www.youtube.com/watch?v=8C6dKREbO70)
-   + POS雙螢幕應用-[網址](https://www.youtube.com/watch?v=8C6dKREbO70&t)
-   + QC攝影機應用[網址](https://www.youtube.com/watch?v=6uJJnP6452E)
-   + POS秤重機應用[網址](https://www.youtube.com/watch?v=hnAcUCZpKuo)
-   + POS列印應用[網址](https://www.youtube.com/watch?v=EtPRZDOhwFU)
-   + POS直接列印-[網址](https://apps.odoo.com/apps/modules/17.0/printnode_base/)
+   + IOT BOX 燒錄-[YT網址](https://www.youtube.com/watch?v=7xlgVrhMhEU)
+   + IOT BOX 安裝-[YT網址](https://www.youtube.com/watch?v=8C6dKREbO70)
+   + POS雙螢幕應用-[YT網址](https://www.youtube.com/watch?v=8C6dKREbO70&t)
+   + QC攝影機應用[YT網址](https://www.youtube.com/watch?v=6uJJnP6452E)
+   + POS秤重機應用[YT網址](https://www.youtube.com/watch?v=hnAcUCZpKuo)
+   + POS列印應用[YT網址](https://www.youtube.com/watch?v=EtPRZDOhwFU)
 
