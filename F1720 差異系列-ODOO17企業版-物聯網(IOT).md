@@ -57,9 +57,9 @@
 
 ## 系統應用2-製造現場
 1. 安裝品質模組，新增檢查，選取拍照，並選取拍照設備。
-![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F173017.jpg?raw=true)
-2. 安裝製造模組，新增工作中心，設定IOT觸發點。
 ![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F173018.jpg?raw=true)
+2. 安裝製造模組，新增工作中心，設定IOT觸發點。
+![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F173019.jpg?raw=true)
 
 
 ## 小結
