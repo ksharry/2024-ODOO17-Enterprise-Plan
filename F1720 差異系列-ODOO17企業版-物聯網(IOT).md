@@ -2,7 +2,7 @@
 ![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F173017.jpg?raw=true)
 
 ## 測試設備清單
-1. 使用Respberry Pi 3 Model B。(僅手邊有，速度慢，測試使用)
+1. 使用Respberry Pi 3 Model B。(測試使用)
 2. 使用64GB Micro SD卡、讀卡機。
 3. 第二套鍵盤、滑鼠、電源、螢幕。
 <img src="./pic/F173001.jpg" alt="Editor" width="500">
