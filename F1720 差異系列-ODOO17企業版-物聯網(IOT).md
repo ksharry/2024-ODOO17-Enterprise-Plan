@@ -55,17 +55,25 @@
 3. 實際配置畫面
 <img src="./pic/F173014.jpg" alt="Editor" width="500">
 
-## 系統應用2-庫存
+## 系統應用2-採購庫存
 1. 安裝品質模組，並設定採購入庫要進行拍照。
 2. 採購收貨時，選取拍照進行記錄。
 ![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F173020.jpg?raw=true)
 3. 查看檢驗後的拍照結果
 ![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F173021.jpg?raw=true)
 
+## 系統應用3-製造標籤列印
+1. 安裝製造與工廠，並設定品質要列印標籤
+![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F173022.jpg?raw=true)
+2. 設定Iotbox的列印機要列印的報表。
+![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F173023.jpg?raw=true)
+3. 品質列印標籤時，會確認未來直接列印的印表機後，就可以直接列印而不是產出PDF
+![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F173024.jpg?raw=true)
+
 ## 系統應用3-製造
 1. 安裝製造模組，新增工作中心，設定IOT觸發點。
 ![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F173018.jpg?raw=true)
-
+2. 目前測試沒有觸發。
 
 ## 小結
 1. Iotbox需求是不同場域收集或操作不同設備進行使用，ODOO原生寫了幾個範例參考，更多的可能需要規劃後再執行，才能使數據有更多應用。
