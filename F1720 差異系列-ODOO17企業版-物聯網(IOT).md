@@ -31,7 +31,7 @@
 
 ## IOT BOX連線設定WIFI
 1. ODOO安裝IOT模組，並連結設備，取得企業版的代碼(TOKEN)
-![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F173006.jpg?raw=true)
+![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F170306.jpg?raw=true)
 2. 「補充IOT BOX 安裝圖片」將電腦WIFI連線IotBOX-008723808e74
 3. 「補充IOT BOX 安裝圖片」透過電腦瀏覽器，輸入IP：10.11.12.1
 4. 設定機器名稱與代碼(TOKEN)
