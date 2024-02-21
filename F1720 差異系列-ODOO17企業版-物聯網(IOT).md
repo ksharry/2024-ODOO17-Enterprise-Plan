@@ -81,4 +81,5 @@
    + QC攝影機應用[YT網址](https://www.youtube.com/watch?v=6uJJnP6452E)
    + POS秤重機應用[YT網址](https://www.youtube.com/watch?v=hnAcUCZpKuo)
    + POS列印應用[YT網址](https://www.youtube.com/watch?v=EtPRZDOhwFU)
+   + 新版Raspberry無法使用帳號密碼登入-[網址](https://www.raspberrypi.com/news/raspberry-pi-bullseye-update-april-2022/)
 
