@@ -70,7 +70,7 @@
 3. 品質列印標籤時，會確認未來直接列印的印表機後，就可以直接列印而不是產出PDF
 ![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F173024.jpg?raw=true)
 
-## 系統應用3-製造
+## 系統應用4-製造
 1. 安裝製造模組，新增工作中心，設定IOT觸發點。
 ![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F173018.jpg?raw=true)
 2. 目前測試沒有觸發。
