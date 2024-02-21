@@ -1,5 +1,5 @@
 ## 總表
-![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F173007.jpg?raw=true)
+![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F173016.jpg?raw=true)
 
 ## 測試設備清單
 1. 使用Respberry Pi 3 Model B。
@@ -57,7 +57,10 @@
 
 ## 系統應用2-製造現場
 1. 安裝品質模組，新增檢查，選取拍照，並選取拍照設備。
-2. 工作
+![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F173017.jpg?raw=true)
+2. 安裝製造模組，新增工作中心，設定IOT觸發點。
+![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F173018.jpg?raw=true)
+
 
 ## 小結
 1. Model 3B的速度慢，僅測試使用。
